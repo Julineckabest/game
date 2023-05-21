@@ -1,0 +1,9 @@
+#title-screen {
+    position: absolute;
+}
+
+#title-button {
+    position: absolute;
+    top: 300;
+    left: 350;
+}
